@@ -1,0 +1,7 @@
+
+Shape: (195392, 87)
+Start Training...
+Svm Accuracy: 0.93521
+Decision Tree Accuracy: 0.96446
+The random forest train/test accuracies 1.000/1.000
+

@@ -1,0 +1,10 @@
+Dou: 
+Help contributed a possible solution which is using Decision Tree method to standardized the data for Decision Tree classifier. Finish the beginning part of the report, introducing the dataset, problem definition and motivation. Modifying the report training and testing cases and tabled out the accuracy score for the method. Transfer the final report from word document to Latex.
+
+
+Bi: 
+Contributed the idea on creating a motivation of the real-world problem. Finished the rough  draft of how to properly detecting DDoS attack using Machine Learning method for this project. Build the code outline for each of us working on part of the code. Mainly worked on importing the dataset, test each method through the dataset. Made a general plotting idea for the problem definition and proposal solution in the report. Finished working on the result analysis on the report according to the training and testing results. 
+
+Wang: 
+Using Support vector machine method for further test on detecting the DDoS attack. Contributed for building the code outline as working on majority part of the code. Training the accuracy for three method using DDoS Attack evaluation dataset. Modifying the Data Description and solution explanation on the report. Worked on the code for the training and testing results. Checking on the data analysis and data description in the existing datasets.
+
